@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, C, Java and Linux OS
 - 💞️ I’m looking to collaborate on Digital Investigation and Bug Bounty
 - 📫 How to reach me through my instagram on my profile or send me an proton.mail
-- 😄 Pronouns: she/her
+- 😄 Pronouns: null
 - ⚡ Fun fact: I like playing Chess, Go and Rubick Cube
 
 <!---
