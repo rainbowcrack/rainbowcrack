@@ -14,6 +14,7 @@ Tabelas de cores em Hexadecimal: https://www.remessaonline.com.br/blog/tabela-de
 
 ## 💎 Top Works
 * [Eyelock](https://github.com/rainbowcrack/Eyelock): IP port scanner on websites, constantly updated and new versions coming soon
+* [Competições, CTF's, Maratonas, Hackathons e Treinamentos](https://github.com/rainbowcrack/Competicoes-CTFs-Maratonas-Hackathons-Treinamentos): Programming and cybersecurity marathons that I participated, as well as competitive training and courses. Hack the Box, TryHackMe, HackerOne, and Code Forces, LeetCode, Beecrowd.
 * [Conway Game](https://github.com/rainbowcrack/Conway-Game-in-Arduino): Adapting a Cellular Automaton for Arduino
 * [Programming Studies](https://github.com/rainbowcrack/Programming_Studies): shared studies of programming languages ​​with summaries and exercises
 
