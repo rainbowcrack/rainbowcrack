@@ -7,22 +7,25 @@ Framework para o GitHub: https://gprm.itsvg.in/
 Tabelas de cores em Hexadecimal: https://www.remessaonline.com.br/blog/tabela-de-cores-html-veja-os-codigos-para-aplicar-cores-nas-tags-html/ 
 -->
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=191970center=true&vCenter=true&random=false&width=1000&lines=Hello!%2C+My+name+is+Izabel+Chaves;Nickname:+Rainbowcrack🖐️;I'm+19+years+old;Graduating+in+Computer+Science;Welcome%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=191970center=true&vCenter=true&random=false&width=1000&lines=Hello!%2C+My+name+is+Izabel+Chaves;Nickname:+Rainbowcrack🖐️;Graduating+in+Computer+Science;Welcome%3A)](https://git.io/typing-svg)
 
 # 💫 About Me:
-👋 Hi, I’m Izabel Chaves and Computer Science Student from Pontifical University Catholic (PUC Minas)<br>👀 I’m interested in Cybersecurity, Cloud computer, Web3 and Linux distro.<br>🌱 I’m currently learning C, Python and Shell Script Bash programming.<br>💞️ I’m looking to collaborate on Endpoint Security, Data Analysis, Back-end programming and Free Software.<br>📫 How to reach me through on my profile links for LinkedIn, Instagram or Zooniverse (Scientist and Researcher Account).<br>😄 Pronouns: she/her.<br>⚡ Fun fact: I'm a member of the Google Developer Community, where I study cloud. Also, I have already translated and proofread in Ethereum.org
-
-## 💎 Top Works
-* [Eyelock](https://github.com/rainbowcrack/Eyelock): IP port scanner on websites, constantly updated and new versions coming soon
-* [Competições, CTF's, Maratonas, Hackathons e Treinamentos](https://github.com/rainbowcrack/Competicoes-CTFs-Maratonas-Hackathons-Treinamentos): Programming and cybersecurity marathons that I participated, as well as competitive training and courses. Hack the Box, TryHackMe, HackerOne, and Code Forces, LeetCode, Beecrowd.
-* [Conway Game](https://github.com/rainbowcrack/Conway-Game-in-Arduino): Adapting a Cellular Automaton for Arduino
-* [Programming Studies](https://github.com/rainbowcrack/Programming_Studies): shared studies of programming languages ​​with summaries and exercises
+👋 Hi, I’m Izabel Chaves and Computer Science Student from Pontifical University Catholic (PUC Minas)<br>👀 I’m interested in Security and Cloud Computer.<br>🌱 I’m currently learning C/C++, Python and Shell Script Bash programming.<br>💞️ I’m looking to collaborate on Endpoint Security, Data Analysis, Back-end programming and Free Software.<br>📫 How to reach me through on my profile links for LinkedIn, Instagram or Zooniverse (Scientist and Researcher Account).<br>😄 Pronouns: she/her.<br>⚡ Fun fact: I'm a member of the Google Developer Community and also I have already translated as proofread in Ethereum.org!!
 
 ## 🏆 Competition Works
 Winners of the Brazilian National!! 
 The first was nominated for Global and a Startup proposal, the second was purchased for the best high school proposal...
 * [Nasa Apps Challenge 2023](https://github.com/rainbowcrack/Hackathon-NASA---EMIT-): model programmed to analyze NASA sensor data to predict sandstorms in tribes in Africa
 * [Hackathon SEB/SEBRAE 2023](https://github.com/rainbowcrack/hackathon_website): website created to optimize the management of Club Athletico Paranaense, a Brazilian football club
+  
+## 💎 Top Works
+* [Conway Game](https://github.com/rainbowcrack/Conway-Game-in-Arduino): Adapting a Cellular Automaton for Arduino UNO.
+* [Eyelock](https://github.com/rainbowcrack/Eyelock): IP port scanner on websites, using TCP/IP and Sockets. Constantly updated and new versions coming soon!
+* [ShellKitty](https://github.com/rainbowcrack/ShellKitty): Automate applications and system tasks in Shell Script Bash, focused on agility, QA, testing and security.
+
+## 📚 Studies and courses
+* [Competições, CTF's, Maratonas, Hackathons e Treinamentos](https://github.com/rainbowcrack/Competicoes-CTFs-Maratonas-Hackathons-Treinamentos): Programming and cybersecurity marathons that I participated, as well as competitive training and courses. Hack the Box, TryHackMe, HackerOne, and Code Forces, LeetCode, Beecrowd.
+* [Programming Studies](https://github.com/rainbowcrack/Programming_Studies): shared studies of programming languages ​​with summaries and exercises
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/izacloy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://br.linkedin.com/in/izabel-chaves-034832284) 
