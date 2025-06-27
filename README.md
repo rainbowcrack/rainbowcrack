@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F08080&text=Welcome!&textBg=false&fontColor=8B0000&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F08080&text=Welฅ^•ﻌ•^ฅcome!&textBg=false&fontColor=8B0000&animation=blinking"/>
 
 <!-- 
 Header personalizado: https://capsule-render.vercel.app/ 
@@ -6,8 +6,6 @@ Github com especificações do Header: https://github.com/kyechan99/capsule-rend
 Framework para o GitHub: https://gprm.itsvg.in/
 Tabelas de cores em Hexadecimal: https://www.remessaonline.com.br/blog/tabela-de-cores-html-veja-os-codigos-para-aplicar-cores-nas-tags-html/ 
 -->
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=191970center=true&vCenter=true&random=false&width=1000&lines=Hello!%2C+My+name+is+Izabel+Chaves;Nickname:+Rainbowcrack🖐️;Graduating+in+Computer+Science;Welcome%3A)](https://git.io/typing-svg)
 
 # 💫 About Me:
 👋 Hi, I’m Izabel Chaves and Computer Science Student from Pontifical University Catholic (PUC Minas)<br>👀 I’m interested in Security and Cloud Computer.<br>🌱 I’m currently learning C/C++, Python and Shell Script Bash programming.<br>💞️ I’m looking to collaborate on Endpoint Security, Data Analysis, Back-end programming and Free Software.<br>📫 How to reach me through on my profile links for LinkedIn, Instagram or Zooniverse (Scientist and Researcher Account).<br>😄 Pronouns: she/her.<br>⚡ Fun fact: I'm a member of the Google Developer Community and also I have already translated as proofread in Ethereum.org!!
